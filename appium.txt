@@ -4,3 +4,5 @@ deviceName = "iPhone 6"
 platformVersion = "11.2"
 app = "./SampleAppiumApp.app"
 automationName = "XCUITest"
+
+
